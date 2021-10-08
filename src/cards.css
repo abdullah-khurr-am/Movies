@@ -1,0 +1,26 @@
+.card-small{
+    width:161px;
+    height:102px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-big{
+    width:397px;
+    height:308px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.button-small{
+    font-size: 48px;
+    color: black;
+    width: fit-content;
+    background-color: blue;
+}

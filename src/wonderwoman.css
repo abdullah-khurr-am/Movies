@@ -1,0 +1,49 @@
+.contain{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.poster{
+    position: absolute;
+    top: 0;
+    z-index: -10;
+    background-image: url(./posters/poster.png);
+    width: 1640px;
+    height: 593px;
+    border-radius: 0px 0px 40px 40px;
+}
+
+.watch-now{
+    padding: 10px 50px;
+    background-color: transparent;
+    border: 4px solid rgb(14, 183, 210);
+    border-radius: 36px;
+    color:white;
+    font-weight: 500;
+    font-size: 20px;
+    transition:all 0.3s ease-in-out;
+}
+
+.watch-now:hover{
+    background-color: rgb(14, 183, 210);
+}
+
+.info-poster{
+    margin-top: 275px;
+    margin-left: 148px;
+    margin-right: 122px;
+    display: flex;
+}
+
+.info-poster .wonder-info{
+    width:50%;
+    margin: 0px;
+}
+
+.cards{
+    padding: 0px 0px 0px 110px;
+    width: 50%;
+    margin-top:135px;
+    display: flex;
+    justify-content: space-evenly;
+}

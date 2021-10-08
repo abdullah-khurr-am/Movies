@@ -1,0 +1,49 @@
+.movies{
+    position: relative;
+    top: 600px;
+    left: 140px;
+    width: 1640px;
+    height: fit-content;
+    color: rgb(98, 119, 145);
+    display: flex;
+    justify-content: space-between;
+}
+
+.Meat{
+    width: 75%;
+}
+
+.more{
+    color: rgba(98, 119, 145,0.8);
+}
+
+.CardRow{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 29px;
+}
+
+.Vegetables{
+    width: 25%;
+    padding-left: 38px;
+}
+
+.ShowTime{
+    margin-top: 60px;
+    width: 66%;
+}
+
+.list{
+    width:100%;
+    margin-top: 23px;
+}
+
+.show{
+    margin-top: 60px;
+    width: 34%;
+    border: 0.5px solid black;
+}
+
+.show-container{
+    display: flex;
+}
