@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# The Following UI was developed straight from a figma file uploaded on Dribbble for practice
+## The Following UI was developed straight from a figma file uploaded on Dribbble for practice
 
 ![Screenshot (284)](https://user-images.githubusercontent.com/44776526/154541769-8b844f8d-76fc-4701-a74a-a25abd2dfac2.png)
 
